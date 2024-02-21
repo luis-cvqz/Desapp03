@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Textview strings-->
+    <string name="lbl_user_registration">Registro de nuevo usuario</string>
+    <string name="lbl_name">Nombre</string>
+    <string name="lbl_birthdate">Fecha de nacimiento</string>
+    <string name="lbl_sex">Sexo</string>
+    <string name="lbl_female">Femenino</string>
+    <string name="lbl_male">Masculino</string>
+    <string name="lbl_other">Otro</string>
+    <string name="lbl_phone_number">Número telefónico</string>
+    <string name="lbl_email">Correo electrónico</string>
+    <string name="lbl_password">Contraseña</string>
+    <string name="lbl_password_confirmation">Confirmar contraseña</string>
+    <string name="lbl_password_confirmation_alert">Las contraseñas no coinciden</string>
+    <!--Empty fields Textview-->
+    <string name="lbl_empty_name">Ingrese su nombre</string>
+    <string name="lbl_empty_birthdate">Ingrese su fecha de nacimiento</string>
+    <string name="lbl_empty_email">Ingrese su correo elecrónico</string>
+    <string name="lbl_empty_sex">Ingrese su sexo</string>
+    <string name="lbl_empty_password">Ingrese una contraseña</string>
+    <string name="lbl_empty_password_confirmation">Confirme la contraseña</string>
+    <!--Interaction strings (buttons and other) -->
+    <string name="btn_clear_fields">Vaciar campos</string>
+    <string name="btn_register">Registrarse</string>
+    <string name="btn_view_passwords">Ver contraseñas</string>
+    <!--Toast strings-->
+    <string name="tst_user_registered">Usuario registrado exitosamente</string>
+    <string name="tst_fields_cleared">Campos vaciados</string>
+    <string name="tst_fill_all_fields">Llene todos los campos</string>
+    <string name="tst_invalid_email">La dirección de correo electrónico no es válida</string>
+</resources>

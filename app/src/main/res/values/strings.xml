@@ -1,3 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Desapp03</string>
+    <string name="app_name" translatable="false">Desapp03</string>
+    <!--Textview strings-->
+    <string name="lbl_user_registration">New user registration</string>
+    <string name="lbl_name">Name</string>
+    <string name="lbl_birthdate">Birthdate</string>
+    <string name="lbl_sex">Sex</string>
+    <string name="lbl_female">Female</string>
+    <string name="lbl_male">Male</string>
+    <string name="lbl_other">Other</string>
+    <string name="lbl_phone_number">Phone number</string>
+    <string name="lbl_email">E-mail</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_password_confirmation">Confirm password</string>
+    <string name="lbl_password_confirmation_alert">The passwords don\'t match</string>
+    <!--Empty fields Textview-->
+    <string name="lbl_empty_name">Enter your name</string>
+    <string name="lbl_empty_birthdate">Enter your birthdate</string>
+    <string name="lbl_empty_email">Enter your E-mail</string>
+    <string name="lbl_empty_sex">Enter your sex</string>
+    <string name="lbl_empty_password">Enter a password</string>
+    <string name="lbl_empty_password_confirmation">Confirm the password</string>
+    <!--Interaction strings (buttons and other) -->
+    <string name="btn_clear_fields">Clear fields</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_view_passwords">View passwords</string>
+    <!--Toast strings-->
+    <string name="tst_user_registered">User registered successfully</string>
+    <string name="tst_fields_cleared">All fields cleared</string>
+    <string name="tst_fill_all_fields">All fields must be filled</string>
+    <string name="tst_invalid_email">Enter a valid e-mail address</string>
 </resources>
